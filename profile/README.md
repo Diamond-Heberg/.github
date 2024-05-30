@@ -1,4 +1,4 @@
-## Hi there 👋
+<p align="center"><img src="https://diamond-heberg.fr/img/badge.png" alt="Logo"></p>
 
 <!--
 
